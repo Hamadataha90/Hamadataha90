@@ -10,7 +10,7 @@
 
 <img  src="./images/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Portfolio](https://hamada-portfolio.vercel.app/){:target="_blank"}**
+- 🙋‍♂️ All about me is at **[My Portfolio](https://hamada-portfolio.vercel.app/)**{:target="_blank"}
 
 - 🔭 I’m currently working on Something Interesting.
 
@@ -64,4 +64,3 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Hamadataha90&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamadataha90&" alt="hamadataha90" />
 </div>
-
