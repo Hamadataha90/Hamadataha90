@@ -10,7 +10,7 @@
 
 <img  src="./images/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://restaurant-menu-sooty.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Portfolio](https://hamada-portfolio.vercel.app/){:target="_blank"}**
 
 - 🔭 I’m currently working on Something Interesting.
 
