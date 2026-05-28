@@ -1,66 +1,125 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Hamada-Taha</h1>
+```md
+<h1 align="center">
+  Hi 👋, I'm Hamada Elsayed
+</h1>
+
+<h3 align="center">
+  Frontend Developer | React & Next.js Developer | Building Modern Web Experiences
+</h3>
 
 <div align="center">
-      <img src ="./images/banner.png" />
+  <img 
+    src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1600&auto=format&fit=crop" 
+    alt="Developer Banner" 
+    width="100%"
+  />
 </div>
 
-<br/>
+---
 
-## 👨🏻‍💻 About Me:
+## 🚀 About Me
 
-<img  src="./images/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  width="350px" 
+  align="right"
+/>
 
-- 🙋‍♂️ All about me is at **[My Portfolio](https://hamada-portfolio.vercel.app/)**
+- 💻 Frontend Developer specializing in **React.js** and **Next.js**
+- 🌱 Currently expanding my skills in the **MERN Stack**
+- ⚡ Passionate about building modern, responsive, and scalable web applications
+- 🤝 Open to collaborating on innovative development projects
+- 📚 Constantly learning new technologies and improving problem-solving skills
+- 🎯 Focused on writing clean, maintainable, and high-performance code
+- 🎮 Outside coding, I enjoy gaming and exploring new tech trends
 
-- 🔭 I’m currently working on Something Interesting.
+---
 
-- 🌱 I’m currently learning MERN Stack
+## 🛠 Tech Stack
 
-- 👯 I’m looking to collaborate for Dev Projects
-
-- 🤔 I’m looking for help with Competitive Programming
-
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
-- ⚡ Fun fact: I waste most of my time playing games
-
-## 🛠️ Technologies and Tools I use:
-
+### Frontend
 <p>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
-<img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,jquery,redux" />
 </p>
 
-## ❤️ Let's get connected:
-
+### Backend & Database
 <p>
-  <a href="https://x.com/CRYPTO_MAN1190" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> 
-  <a href="https://www.linkedin.com/in/hamada-elsayed-90h2011/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
-  <a href="https://successlivinginspiration.blogspot.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> 
-  <a href="https://www.instagram.com/success_living90/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-  <a href="https://www.facebook.com/hsist/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"  height="30px"/></a>
-  <a href="https://github.com/Hamadataha90" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-9146FF.svg?&style=for-the-badge&logo=github&logoColor=white" height="30px" /></a>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 </p>
 
-## 📊 My GitHub Data:
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,npm,vscode" />
+</p>
+
+---
+
+## 🌐 Portfolio & Contact
+
+<p align="left">
+  <a href="https://hamada-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:hstaha1190@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/hamada-elsayed-90h2011/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Hamadataha90" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/CRYPTO_MAN1190" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/success_living90/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Hamadataha90&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamadataha90&" alt="hamadataha90" />
+
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=Hamadataha90&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img 
+  height="180em" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Hamadataha90&theme=tokyonight&hide_border=true"
+/>
+
 </div>
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Next.js Architecture
+- Backend Development with Node.js & Express
+- PostgreSQL & Database Design
+- Web3 & Blockchain Development
+
+---
+
+## ✨ Quote I Believe In
+
+> “Great developers are not just coders — they are problem solvers.”
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+</div>
+```
