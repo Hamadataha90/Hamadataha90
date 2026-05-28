@@ -1,4 +1,3 @@
-```md
 <h1 align="center">
   Hi 👋, I'm Hamada Elsayed
 </h1>
@@ -122,4 +121,3 @@
 ### Thanks for visiting my profile ❤️
 
 </div>
-```
